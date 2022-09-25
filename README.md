@@ -1,2 +1,2 @@
 # cats_dogs_image_classification
-This repository contains the code and the report for the Cats and Dogs images classification project.
+This repository contains the code and the report for the Cats and Dogs images classification project, developed for the course in Machine Learning.
